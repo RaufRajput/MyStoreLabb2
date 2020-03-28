@@ -1,0 +1,125 @@
+Thank you for purchasing from our store.
+You have bought 1 products from our Store and your total amount is 5500000.0
+Product details are:
+id=12
+type='car'
+name='cultus'
+quantity='7'
+price='5500000.0'
+category name='vehicle'
+category color='vehicles are used to make your trip comfortable'
+category description='red'
+
+Our all Products are:
+id=1
+type='car'
+name='alto'
+quantity='30'
+price='5500000.0'
+category name='vehicle'
+category color='vehicles are used to make your trip comfortable'
+category description='red'
+
+id=2
+type='car'
+name='suzuki mehran'
+quantity='20'
+price='2500000.0'
+category name='vehicle'
+category color='vehicles are used to make your trip comfortable'
+category description='red'
+
+id=3
+type='bike'
+name='honda cd70'
+quantity='50'
+price='55000.0'
+category name='vehicle'
+category color='vehicles are used to make your trip comfortable'
+category description='red'
+
+id=4
+type='bus'
+name='daewoo'
+quantity='5'
+price='2.55E7'
+category name='vehicle'
+category color='vehicles are used to make your trip comfortable'
+category description='red'
+
+id=5
+type='handsfree'
+name='audionic'
+quantity='500'
+price='500.0'
+category name='mobile accessories'
+category color='mobile accessories are available in low rates'
+category description='green'
+
+id=6
+type='mobile'
+name='samsung a50'
+quantity='220'
+price='50000.0'
+category name='mobile accessories'
+category color='mobile accessories are available in low rates'
+category description='green'
+
+id=7
+type='computer'
+name='dell'
+quantity='10'
+price='60000.0'
+category name='laptops'
+category color='mobile accessories are available in low rates'
+category description='yellow'
+
+id=8
+type='computer'
+name='hp'
+quantity='10'
+price='75000.0'
+category name='laptops'
+category color='laptop makes you work smart'
+category description='yellow'
+
+id=9
+type='tablet'
+name='iTab'
+quantity='30'
+price='5500000.0'
+category name='mobile accessories'
+category color='mobile accessories are available in low rates'
+category description='green'
+
+id=10
+type='computer'
+name='lenovo'
+quantity='10'
+price='55000.0'
+category name='laptops'
+category color='mobile accessories are available in low rates'
+category description='yellow'
+
+id=11
+type='car'
+name='swift'
+quantity='10'
+price='9500000.0'
+category name='vehicle'
+category color='vehicles are used to make your trip comfortable'
+category description='red'
+
+id=12
+type='car'
+name='cultus'
+quantity='7'
+price='5500000.0'
+category name='vehicle'
+category color='vehicles are used to make your trip comfortable'
+category description='red'
+
+
+**************************************************************************************
+Thank you for visiting us
+**************************************************************************************

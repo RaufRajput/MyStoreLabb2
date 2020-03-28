@@ -1,0 +1,12 @@
+2,car,Volvo V70,20,2500000,vehicle,red,Nice swedish car
+1,car,Mercedes C-class,30,5500000,vehicle,red, The german beast
+4,bus, Volvo trucks,5,25500000,vehicle,red, for your safety and transportation
+3,MC, kawasaki Ninja,50,55000,Motorbike,red, two wheel beast!
+6,mobile,Apple iphone 10,220,50000,mobile accessories,green, smartphone for life
+9,tablet,iTab,30,5500000,mobile accessories,green,mobile accessories are available in low rates
+5,handsfree,audionic,500,500,mobile accessories,green,mobile accessories are available in low rates
+8,computer,hp,10,75000,laptops,yellow,laptop makes you work smart
+7,computer,dell,10,60000,laptops,yellow,mobile accessories are available in low rates
+10,computer,lenovo,10,55000,laptops,yellow,mobile accessories are available in low rates
+12,car,BMW,8,5500000,vehicle,red,vehicles are used to make your trip comfortable
+11,car,SAAB,10,9500000,vehicle,red,vehicles are used to make your trip comfortable
